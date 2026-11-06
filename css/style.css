@@ -1,1 +1,16 @@
 /* Add any custom CSS stylings you want here */
+body {
+    background-color: plum;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkorchid;
+    font-weight: bold;
+}
+
+#gif-container img {
+    border-radius: 10px;
+    padding: 5px;
+    object-fit: cover;
+}
